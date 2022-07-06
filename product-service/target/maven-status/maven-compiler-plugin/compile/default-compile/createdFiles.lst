@@ -1,0 +1,11 @@
+com\samuelHCBproductservice\dto\ProductRequest$ProductRequestBuilder.class
+com\samuelHCBproductservice\service\ProductServiceImp.class
+com\samuelHCBproductservice\service\ProductService.class
+com\samuelHCBproductservice\dto\ProductRequest.class
+com\samuelHCBproductservice\ProductServiceApplication.class
+com\samuelHCBproductservice\repository\ProductRepository.class
+com\samuelHCBproductservice\controller\ProductController.class
+com\samuelHCBproductservice\entity\Product.class
+com\samuelHCBproductservice\dto\ProductResponse$ProductResponseBuilder.class
+com\samuelHCBproductservice\dto\ProductResponse.class
+com\samuelHCBproductservice\entity\Product$ProductBuilder.class

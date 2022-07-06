@@ -1,0 +1,6 @@
+com\samuelHCB\inventoryservice\InventoryServiceApplication.class
+com\samuelHCB\inventoryservice\controller\InventoryController.class
+com\samuelHCB\inventoryservice\entity\Inventory.class
+com\samuelHCB\inventoryservice\service\InventoryServiceImp.class
+com\samuelHCB\inventoryservice\service\InventoryService.class
+com\samuelHCB\inventoryservice\repository\InventoryRepository.class
